@@ -1,3 +1,7 @@
+****WARNING: 
+This script will modify your blend files with the default settings. Save them before running it. specifically - it will triangulate everything.
+
+
 I created this exporter because of a few annoying bugs in the mainline threejs exporter.
 Bugs I set out to fix with this exporter:
  readability. I tried, very hard, but just couldn't figure out how the entire exporter fit together. 
